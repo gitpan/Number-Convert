@@ -161,7 +161,7 @@ sub isNumber
 
 __END__
 
-=head1 Number::Convert
+=head1 NAME
 
 Number::Convert - Perl extension to convert numbers between different base systems.
 
